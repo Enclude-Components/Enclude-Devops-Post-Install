@@ -8,6 +8,7 @@ A repository for post-install metadata for the [Enclude Devops Managed Package](
 </a>
 
 ## Included Metadata
+-External Client App OAuth Policies
+  - Enclude Devops OAuth Default Policy
 - Permission Sets
   - Enclude_Devops_Client
-
